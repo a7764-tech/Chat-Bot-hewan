@@ -1,0 +1,2 @@
+.filter-bar{flex-wrap:wrap;gap:9px}.filter-bar .search-wrap{flex:1 1 260px}.filter-bar select{flex:1 1 165px;max-width:230px}.classification-note{margin-top:8px!important;font-size:10px!important;color:#899080!important}.modal-section small{display:block;margin-top:10px;color:#7b8275;line-height:1.8}.modal-section small a{color:#596f4b;margin-right:8px}
+@media(max-width:650px){.filter-bar select{max-width:none;min-width:0}.filter-bar .search-wrap{flex:1 1 100%}}

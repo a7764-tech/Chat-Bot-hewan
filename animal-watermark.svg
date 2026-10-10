@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 1000" fill="none">
+  <g stroke="#536b49" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" opacity=".68">
+    <!-- Cat face -->
+    <path d="M150 208 130 142l75 35q47-20 94 0l75-35-20 69q28 35 25 78-7 93-112 99-105-6-112-99-3-43 25-81Z"/>
+    <path d="M184 269q22-17 44 0m78 0q22-17 44 0M253 296l-12 10 12 9 12-9-12-10Zm0 19q-12 24-35 4m35-4q12 24 35 4M191 310l-52-8m54 24-48 13m305-29 52-8m-54 24 48 13"/>
+    <!-- Rabbit -->
+    <path d="M1104 485q-40-53-32-135 4-42 26-41 26 1 35 104 9-106 39-103 27 2 18 59-9 55-39 111 45 29 48 79 6 91-94 99-100-8-94-99 4-47 49-74Z"/>
+    <path d="M1080 577q17-12 34 0m39 0q17-12 34 0m-37 16-10 8 10 8 10-8-10-8Zm0 16q-10 20-28 4m28-4q10 20 28 4"/>
+    <!-- Fish -->
+    <path d="M181 739q74-79 179 0-105 79-179 0Zm179 0 77-58v116l-77-58Zm-105-8h1m61 0h1"/>
+    <path d="M238 704q-20 35 0 70m45-67q20 32 0 64"/>
+    <!-- Paw prints -->
+    <g transform="translate(1200 190)"><ellipse cx="0" cy="17" rx="24" ry="20"/><ellipse cx="-29" cy="-15" rx="10" ry="14"/><ellipse cx="-10" cy="-34" rx="10" ry="14"/><ellipse cx="13" cy="-34" rx="10" ry="14"/><ellipse cx="31" cy="-13" rx="10" ry="14"/></g>
+    <g transform="translate(642 843) rotate(-18)"><ellipse cx="0" cy="17" rx="24" ry="20"/><ellipse cx="-29" cy="-15" rx="10" ry="14"/><ellipse cx="-10" cy="-34" rx="10" ry="14"/><ellipse cx="13" cy="-34" rx="10" ry="14"/><ellipse cx="31" cy="-13" rx="10" ry="14"/></g>
+  </g>
+</svg>
